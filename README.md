@@ -3,7 +3,7 @@ I am a fullstack software engineer skilled in JavaScript, React, Redux, HTML, CS
 
 Before I became a software engineer I worked in the hospitality industry, as a bartender 🍻 and attended school full time as computer science major 🧑🏾‍💻.
 
-On my free time I love to play handball 🤾🏽‍♂️, and watch anime 🙀, and read about ancient history. I love to learn and experience new and exciting things in the universe because after all ...
+On my free time I love to play handball 🤾🏽‍♂️, and watch anime 🙀, and read about ancient history 📜. I love to learn and experience new and exciting things in the universe because after all ...
 
 "We are the universe experiencing itself" -Alan Watts
 
